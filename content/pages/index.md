@@ -83,7 +83,9 @@ sections:
     background_color: gray
 seo:
   title: BeriPlasma
-  description: Berikan plasma mu untuk yang membutuhkan
+  description: >
+    Aplikasi ini dibuat bertujuan untuk membantu orang yang membutuhkan donor
+    plasma untuk pasien COVID 19.
   extra:
     - name: 'og:type'
       value: website
