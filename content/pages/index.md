@@ -91,7 +91,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: BeriPlasma
       keyName: property
     - name: 'og:description'
       value: >-
