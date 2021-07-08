@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: BeriPlasma
-  description: The preview of the Starter theme
+  description: Berikan plasma mu untuk yang membutuhkan
   extra:
     - name: 'og:type'
       value: website
