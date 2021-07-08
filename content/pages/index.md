@@ -94,7 +94,9 @@ seo:
       value: Stackbit Starter Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Aplikasi ini dibuat bertujuan untuk membantu orang yang membutuhkan
+        donor plasma untuk pasien COVID 19.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
