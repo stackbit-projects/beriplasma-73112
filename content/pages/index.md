@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Aplikasi ini dibuat bertujuan untuk membantu orang yang membutuhkan donor
+      plasma untuk pasien COVID 19.
     actions:
       - label: Learn More
         url: /features
