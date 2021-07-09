@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: BeriPlasma
     subtitle: >-
       Aplikasi ini dibuat bertujuan untuk membantu orang yang membutuhkan donor
       plasma untuk pasien COVID 19.
