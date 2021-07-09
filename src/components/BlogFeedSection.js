@@ -94,7 +94,7 @@ export default class BlogFeedSection extends React.Component {
                     </div>
                 )}
                 <div className="container container--lg">
-                    <div className="flex flex--col-2">
+                    <div className="flex flex--col-3">
                         {_.map(posts, (post, index) => {
                             return <React.Fragment key={index}>{this.renderBlogFeedItemFilter(post, data, section)}</React.Fragment>;
                         })}
